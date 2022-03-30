@@ -1,4 +1,4 @@
-This is an archieve of my solution for programming exercises on Leetcode.
+This is an archive of my solution for programming exercises on Leetcode.
 
 File name starts with '_' is question worth revisiting.
 
